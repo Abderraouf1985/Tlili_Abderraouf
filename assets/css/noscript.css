@@ -26,6 +26,10 @@
 	body.is-preload #intro {
 		opacity: 1;
 	}
+	body
+	 {
+      height:500 vh;
+	 }
 
 		body.is-preload #intro:not(.hidden) + #header + #nav {
 			-moz-transform: none;
